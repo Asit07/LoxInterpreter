@@ -1,0 +1,18 @@
+var assign1 = "Hello";
+if(assign1 == "Hello"){
+   print "True";
+   print "\n";
+}
+
+assign1 = "World";
+if(assign1 == "World"){
+   print "True";
+   print "\n";
+}
+
+assign1 = "10";
+
+if(assign1 == "10"){
+   print "True";
+   print "\n";
+}

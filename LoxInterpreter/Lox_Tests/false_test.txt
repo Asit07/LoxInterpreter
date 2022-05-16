@@ -1,0 +1,5 @@
+if(False){
+   print "This statement should not print\n";
+}
+
+print "This statement should be the only one printed\n";

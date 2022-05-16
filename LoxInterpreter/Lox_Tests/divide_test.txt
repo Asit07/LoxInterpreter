@@ -1,0 +1,14 @@
+if(2 / 1 == 2){
+    print "True\n";
+}
+
+var div1 = 42;
+var div2 = 7;
+
+if(div1 / 3 == 14){
+    print "True\n";
+}
+
+if(div1 / div2 == 6){
+   print "True\n";
+}

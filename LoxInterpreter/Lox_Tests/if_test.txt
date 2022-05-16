@@ -1,0 +1,7 @@
+if(7 == 7){
+   print "True\n";
+}
+
+if(! 12 != 12){
+   print "True\n";
+}

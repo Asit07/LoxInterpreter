@@ -1,0 +1,14 @@
+if(1 * 2 == 2){
+    print "True\n";
+}
+
+var mult1 = 6;
+var mult2 = 7;
+
+if(mult1 * 3 == 18){
+    print "True\n";
+}
+
+if(mult1 * mult2 == 42){
+   print "True\n";
+}

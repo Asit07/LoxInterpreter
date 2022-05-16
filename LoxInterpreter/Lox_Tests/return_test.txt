@@ -1,0 +1,17 @@
+fun sum(a, b){
+return a + b;
+} 
+
+fun printString(c){
+return c;
+} 
+
+print printString("This is True\n"); 
+
+if(sum(1, 2) == 3){
+   print "True\n";
+};
+
+if((sum(1, 2) + sum(3, 4)) == 10){
+   print "True\n";
+};

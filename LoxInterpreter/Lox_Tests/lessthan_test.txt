@@ -1,0 +1,14 @@
+if(9 < 10){
+  print "True\n";
+}
+
+lt1 = 15;
+lt2 = 16;
+
+if(lt1 < lt2){
+  print "True\n";
+}
+
+if(! 4 < 3){
+  print "True\n";
+}

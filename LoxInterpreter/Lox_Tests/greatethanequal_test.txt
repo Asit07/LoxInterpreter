@@ -1,0 +1,24 @@
+if(9 <= 10){
+  print "True\n";
+}
+
+lte1 = 15;
+lte2 = 16;
+
+if(lte1 <= lte2){
+  print "True\n";
+}
+
+if(! 4 <= 3){
+  print "True\n";
+}
+
+if(10 <= 10){
+  print "True\n";
+}
+
+lte1 = 16;
+
+if(lte1 <= lte2){
+  print "True\n";
+}

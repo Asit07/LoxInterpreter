@@ -1,0 +1,14 @@
+if(11 > 10){
+  print "True\n";
+}
+
+gt1 = 15;
+gt2 = 16;
+
+if(gt2 > gt1){
+  print "True\n";
+}
+
+if(! 3 > 4){
+  print "True\n";
+}

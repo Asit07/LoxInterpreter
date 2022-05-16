@@ -1,0 +1,13 @@
+if(True and True){
+   print "True\n";
+}
+
+if(!(False and False)){
+   print "True\n";
+}
+
+if((9<10) and ("Hello" == "Hello")){
+   print "True\n";
+}
+
+

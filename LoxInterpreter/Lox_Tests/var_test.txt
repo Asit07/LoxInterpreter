@@ -1,0 +1,20 @@
+var variable1 = 17;
+var variable2 = "String";
+var variable3 = True;
+
+if(variable1 == 17){
+   print "True";
+   print "\n";
+}
+
+if(variable2 == "String"){
+   print "True";
+   print "\n";
+}
+
+if(variable3){
+   print "True";
+   print "\n";
+}
+
+

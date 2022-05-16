@@ -1,0 +1,19 @@
+if(1 - 2 == -1){
+    print "True\n";
+}
+
+var minus1 = 6;
+var minus2 = 7;
+
+if(minus1 - 3 == 3){
+    print "True\n";
+}
+
+if(minus1 - minus2 == -1){
+   print "True\n";
+}
+   
+if(-minus1 != -6){
+   print "True\n";
+}
+

@@ -1,0 +1,7 @@
+if(!True){
+  print "This should not print\n";
+}
+
+if(!False){
+  print "This should print\n";
+}

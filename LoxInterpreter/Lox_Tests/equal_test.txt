@@ -1,0 +1,11 @@
+if(8 == 8){
+   print "True\n";
+}
+
+if(!8==9){
+   print "True\n";
+}
+
+if("Hello" == "Hello"){
+   print "True\n";
+}

@@ -1,0 +1,20 @@
+fun printSumOf18(d, e, f){
+    if(d + e + f == 18){
+       print "True\n";
+    }
+}
+
+fun swapValues(g, h){
+    var originalG = g;
+    var originalH = h;
+    var temp = g;
+    g = h;
+    h = temp;
+    
+    if(g == originalH and h == originalG){
+        print "True\n";
+    }
+}
+
+printSumOf18(5, 6, 7);
+swapValues(7, 8);

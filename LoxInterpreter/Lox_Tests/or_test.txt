@@ -1,0 +1,11 @@
+if(True or False){
+   print "True\n";
+}
+
+if(!(False or False)){
+   print "True\n";
+}
+
+if((9<10) or ("Hello" == "World")){
+   print "True\n";
+}

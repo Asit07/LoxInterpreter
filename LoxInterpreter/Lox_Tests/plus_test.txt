@@ -1,0 +1,15 @@
+if(1 + 2 == 3){
+    print "True\n";
+}
+
+var plus1 = 6;
+var plus2 = 7;
+
+if(plus1 + 3 == 9){
+    print "True\n";
+}
+
+if(plus1 + plus2 == 13){
+   print "True\n";
+}
+   

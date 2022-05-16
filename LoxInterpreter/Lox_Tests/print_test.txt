@@ -1,0 +1,8 @@
+print "Hello World!\n";
+print "H";
+print 3110;
+print " W";
+print 0;
+print "r";
+print 1;
+print "d!\n";
