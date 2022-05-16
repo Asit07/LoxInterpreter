@@ -1,2 +1,2 @@
 # LoxInterpreter
-Lox Interpreter implemented in C#
+Lox Interpreter implemented in C++
